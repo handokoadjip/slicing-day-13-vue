@@ -1,6 +1,6 @@
 <template>
   <HeaderComponent />
-  <main>
+  <main class="pb-5">
     <router-view />
   </main>
   <FooterComponent />
