@@ -1,4 +1,4 @@
-# day-1-vue
+# Lindsay | Interview
 
 ## Project setup
 ```
